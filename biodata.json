@@ -1,0 +1,35 @@
+[
+    {
+        "nama": "Haze",
+        "nim": "47",
+        "prodi": "Informatika",
+        "kelamin": "Laki-laki",
+        "alamat": "sasa",
+        "hobi": [
+            "Membaca",
+            "Menulis"
+        ]
+    },
+    {
+        "nama": "Elias",
+        "nim": "2121",
+        "prodi": "Teknik Elektro",
+        "kelamin": "Laki-laki",
+        "alamat": "sasasa",
+        "hobi": [
+            "Membaca",
+            "Menulis"
+        ]
+    },
+    {
+        "nama": "Arto",
+        "nim": "12",
+        "prodi": "Informatika",
+        "kelamin": "Laki-laki",
+        "alamat": "dasd",
+        "hobi": [
+            "Membaca",
+            "Menggambar"
+        ]
+    }
+]
