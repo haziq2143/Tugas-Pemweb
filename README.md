@@ -61,14 +61,6 @@
 └── 📖 README.md           # Dokumentasi ini
 ```
 
-## 🎯 Preview
-
-```
-<img width="1842" height="325" alt="Screenshot 2025-09-30 201813" src="https://github.com/user-attachments/assets/05d34ce8-625a-4c12-a652-49aef3688ee4" />
-<img width="1822" height="410" alt="Screenshot 2025-09-30 201757" src="https://github.com/user-attachments/assets/7e59ff30-63ea-481b-9858-6f0adcb7dd64" />
-<img width="1825" height="911" alt="Screenshot 2025-09-30 201735" src="https://github.com/user-attachments/assets/8fc2f0e3-85cc-486a-8043-76ecdb956c9a" />
-
-```
 
 ## 👨‍💻 Developer
 
@@ -90,4 +82,5 @@ Project ini dilisensikan di bawah **MIT License** - lihat file [LICENSE](LICENSE
 **Dibuat dengan ❤️ oleh Muhammad Haziq Firdaus**
 
 </div>
+
 
